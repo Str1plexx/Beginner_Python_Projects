@@ -1,0 +1,18 @@
+# Python кэш и байт-код
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.venv/
+venv/
+ENV/
+
+# Настройки редакторов
+.vscode/
+.idea/
+*.swp
+
+# Логи и временные файлы
+*.log
+.DS_Store
