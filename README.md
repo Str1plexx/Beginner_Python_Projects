@@ -76,4 +76,4 @@ python3 magic_ball_8.py
 
 ## 👤 Автор
 
-- **Артур Юнг** — [GitHub](https://github.com/Str1plexx)
+[GitHub](https://github.com/Str1plexx)
